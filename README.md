@@ -1,1 +1,1 @@
-JS Homework 1 Variables and types. Function basics
+JS Homework 6 OOP. Classes
